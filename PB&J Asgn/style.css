@@ -1,0 +1,28 @@
+html{
+    background-color: #680A0A;
+}
+
+body{
+    width: 600px;
+    margin:auto;
+    padding: 20px 100px 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+
+h1{
+    font-family: 'Dosis', sans-serif;
+}
+
+p.Thanks{
+    font-size: 12px;
+}
+
+a.Thanks, a.peanut-butter{
+    color: #680A0A;
+}
+
+a:hover{
+    text-decoration-style: dashed;
+    color: burlywood;
+}
